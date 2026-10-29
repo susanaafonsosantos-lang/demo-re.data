@@ -4,3 +4,4 @@ whorkshop boas práticas
 
 # oradores
 pedro 
+bruno
